@@ -7,6 +7,9 @@
 #
 # Jan 2017 | Julien van der Kluft
 
+# Directory info.
+local current_dir='${PWD/#$HOME/~}'
+
 # VCS
 YS_VCS_PROMPT_PREFIX="%{$fg[white]%}on%{$reset_color%} %{$fg[cyan]%}"
 YS_VCS_PROMPT_SUFFIX="%{$reset_color%}"
