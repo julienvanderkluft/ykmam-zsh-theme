@@ -5,7 +5,7 @@
 # A beauty in iTerm with Dracula colorscheme.
 # Colors: black, red, green, blue, cyan, and white.
 #
-# Jan 2017
+# Jan 2017 | Julien van der Kluft
 
 # VCS
 YS_VCS_PROMPT_PREFIX="%{$fg[white]%}on%{$reset_color%} %{$fg[cyan]%}"
